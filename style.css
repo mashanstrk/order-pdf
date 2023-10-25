@@ -111,3 +111,9 @@ h2 {
   border-collapse: collapse;
   width: auto;
 }
+
+.end__cell {
+  text-align: end;
+  padding: 9px;
+  vertical-align: middle;
+}
